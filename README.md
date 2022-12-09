@@ -39,7 +39,7 @@ Create .env file in current directory and fill it with your telegram token as in
 TOKEN=587*****41:AAH-G4U8k2_D0Hij_x4R*****hSlm_Y_hKo
 ```
 
-Run project: \
+Run project:
 ```Shell
 python3 paper_trader_bot.py
 ```
