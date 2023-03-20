@@ -1,6 +1,6 @@
-## Kitty Bot
+## Paper trader Bot
 Telegram bot that gets trading pair given by user, fills form on https://paper-trader.frwd.one/ 
-and returns chart from result page.
+and returns chart from result page. It was a test task.
 
 ## How to run
 Clone repo and move to its directory:
